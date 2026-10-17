@@ -5,7 +5,7 @@ using org.mariuszgromada.math.mxparser;
 
 public class METHOD1 : MonoBehaviour
 {
-    private double registrationNumber = 126794d;
+    private double registrationNumber = 12345d;
     private double a;
     private int frequency = 2; // Given Value: 2Hz
     private int timeLimit = 20; // For 20 Seconds
