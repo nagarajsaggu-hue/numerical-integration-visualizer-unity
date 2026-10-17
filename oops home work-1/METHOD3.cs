@@ -5,7 +5,7 @@ using org.mariuszgromada.math.mxparser;
 
 public class METHOD3 : MonoBehaviour
 {
-    private double registrationNumber = 126794;
+    private double registrationNumber = 12345;
     private double coefficientA;
     private int frequency = 2;
     private oompe.lib.FunctionPlotter graphPlotter;
