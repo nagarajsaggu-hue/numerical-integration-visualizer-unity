@@ -4,7 +4,7 @@ using org.mariuszgromada.math.mxparser;
 
 public class METHOD2 : MonoBehaviour
 {
-    private double UniqueIdentifier = 126794;
+    private double UniqueIdentifier = 12345;
     private double coefficientA;
     private int frequencyFactor = 2;
     private oompe.lib.FunctionPlotter energyPlotter;
